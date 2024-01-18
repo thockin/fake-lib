@@ -1,3 +1,3 @@
 package fakelib
 
-var X = "fake lib v2 untagged"
+var X = "fake lib v2 untagged, edit 1"
